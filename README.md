@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Raj Janga</h1>
-<h3 align="center">Full stack Developer | C | Java | Python | Creative thinking | CSE '26</h3>
+<h3 align="center">| Full stack Developer | C | Java | Python | Creative thinking | CSE '26</h3>
 
 - 🌱 I’m currently learning **AngularJS, OOPC with Java**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/varun-raj-janga-a990b4288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/varun-raj-janga-a990b4288" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-raj-janga-a990b4288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-raj-janga-a990b4288/" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_vinnu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_vinnu_" height="30" width="40" /></a>
 </p>
 
