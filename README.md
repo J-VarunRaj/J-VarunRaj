@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AngularJS, OOPC with Java**
 
-- 📫 How to reach me **vraj93980@gmail.com**
+- 📫 How to reach me **vinnu70934@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1baBaG7xazA0eGa4UBD0zo0ke-UuUWBfB/view?usp=sharing](https://drive.google.com/file/d/1baBaG7xazA0eGa4UBD0zo0ke-UuUWBfB/view?usp=sharing)
 
