@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Varun Raj Janga</h1><h3 align="center">Full stack Developer | C | Java | Python | Creative thinking | CSE '26</h3><br>- 🔭 I’m currently working on Data Structures Using Python<br>- 🌱 I’m currently learning ReactJS and Golang<br>- 👯 I’m looking to collaborate on Full stack with python<br>- 💬 Ask me about OOP, DSA, DBMS<br>- 📫 How to reach me: vinnu70934@gmail.com<br>- 😄 Pronouns: He/Him
+<h1 align="center">Hi 👋, I'm Varun Raj Janga</h1><h3 align="center">Full stack Developer | C | Java | Python | Creative thinking | CSE '26</h3><br>- 🔭 I’m currently working on Data Structures Using Python<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on Full stack with python<br>- 💬 Ask me about OOP, DSA, DBMS<br>- 📫 How to reach me: vinnu70934@gmail.com<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
